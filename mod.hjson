@@ -1,0 +1,9 @@
+{
+    name: "trickеry",
+    displayName: "Trickеry",
+    author: "QmelZ",
+    description: "how did you open this without getting kicked from the game",
+    version: 1,
+    minGameVersion: 125,
+    hidden: true
+}
